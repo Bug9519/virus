@@ -28,3 +28,8 @@ Even though this "virus" doesn't actually do anything, in the one-in-a-bazillion
 I also can not be held responsible for your actions, if you use this to trick your friends/enemies/siblings/coworkers/etc, and they end up hitting you or something... that's on you.
 
 That said, have fun, don't create real viruses/virii, and don't be a d**k in general.
+
+## VirusTotal Results
+[Debug Version](https://www.virustotal.com/gui/file/14f458af702f1a55bcf9b338364b912674323db70916971a26644b31aa084ffe/detection)
+
+[Release Version](https://www.virustotal.com/gui/file/980e80f5fd16fa584ccc9ff55805dadc3aea9a19439a75d30b68cc9623ef2719/detection)
